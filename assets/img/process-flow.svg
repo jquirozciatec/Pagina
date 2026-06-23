@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-label="Flujo de proceso químico sustentable">
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#0b1f33"/></linearGradient></defs>
+<rect width="900" height="380" rx="36" fill="#f7fafc"/>
+<path d="M70 190h135M325 190h135M580 190h150" stroke="#94a3b8" stroke-width="10" stroke-linecap="round"/>
+<path d="M185 160l40 30-40 30M440 160l40 30-40 30M710 160l40 30-40 30" fill="none" stroke="#94a3b8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<g font-family="Arial" font-weight="700" text-anchor="middle">
+<rect x="55" y="105" width="160" height="170" rx="24" fill="#fff" stroke="#e2e8f0"/><text x="135" y="180" font-size="18" fill="#0b1f33">Biomasa</text><text x="135" y="205" font-size="13" fill="#475569">residuos</text>
+<rect x="280" y="80" width="185" height="220" rx="28" fill="url(#a)"/><text x="373" y="170" font-size="18" fill="#fff">Reacción</text><text x="373" y="198" font-size="13" fill="#dbeafe">+ separación</text><text x="373" y="223" font-size="13" fill="#dbeafe">intensificada</text>
+<rect x="540" y="105" width="175" height="170" rx="24" fill="#fff" stroke="#e2e8f0"/><text x="628" y="178" font-size="18" fill="#0b1f33">Optimización</text><text x="628" y="204" font-size="13" fill="#475569">costo · energía · riesgo</text>
+<rect x="760" y="105" width="95" height="170" rx="24" fill="#6d1237"/><text x="808" y="180" font-size="18" fill="#fff">TRL</text><text x="808" y="205" font-size="13" fill="#fbcfe8">impacto</text>
+</g>
+</svg>

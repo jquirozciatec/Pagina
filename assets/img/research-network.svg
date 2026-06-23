@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Red de investigación en procesos sustentables">
+<defs>
+<linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0e7490"/><stop offset="1" stop-color="#6d1237"/></linearGradient>
+<filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity=".18"/></filter>
+</defs>
+<rect width="800" height="520" rx="42" fill="#f8fbff"/>
+<g stroke="#cbd5e1" stroke-width="3" opacity=".75">
+<path d="M142 112L325 205L545 120L658 320L430 385L235 330Z"/>
+<path d="M325 205L430 385M545 120L235 330M142 112L430 385M658 320L325 205"/>
+</g>
+<g filter="url(#s)">
+<circle cx="142" cy="112" r="54" fill="#fff"/><circle cx="142" cy="112" r="42" fill="url(#g)"/><text x="142" y="120" text-anchor="middle" font-family="Arial" font-size="14" fill="#fff" font-weight="700">Agua</text>
+<circle cx="325" cy="205" r="64" fill="#fff"/><circle cx="325" cy="205" r="50" fill="#102a43"/><text x="325" y="198" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff" font-weight="700">Procesos</text><text x="325" y="216" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">intensificados</text>
+<circle cx="545" cy="120" r="58" fill="#fff"/><circle cx="545" cy="120" r="45" fill="#0f766e"/><text x="545" y="128" text-anchor="middle" font-family="Arial" font-size="13" fill="#fff" font-weight="700">Energía</text>
+<circle cx="658" cy="320" r="60" fill="#fff"/><circle cx="658" cy="320" r="47" fill="#b45309"/><text x="658" y="315" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff" font-weight="700">Datos</text><text x="658" y="333" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">+ IA</text>
+<circle cx="430" cy="385" r="61" fill="#fff"/><circle cx="430" cy="385" r="48" fill="#6d1237"/><text x="430" y="379" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff" font-weight="700">TRL</text><text x="430" y="397" text-anchor="middle" font-family="Arial" font-size="12" fill="#fff">impacto</text>
+<circle cx="235" cy="330" r="54" fill="#fff"/><circle cx="235" cy="330" r="42" fill="#334155"/><text x="235" y="338" text-anchor="middle" font-family="Arial" font-size="13" fill="#fff" font-weight="700">Industria</text>
+</g>
+</svg>
